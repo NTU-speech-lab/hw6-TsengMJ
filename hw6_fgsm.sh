@@ -1,0 +1,1 @@
+python ./Src/FGSM.py "$1" "$2"
